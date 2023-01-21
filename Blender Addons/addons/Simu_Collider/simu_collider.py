@@ -110,9 +110,9 @@ class SIMU_Collider_Vars(PropertyGroup):
         description='Select type of collider.',
         items=[
             ('none', "Not Set : Generation Disabled",""),
-            ('box', "Box : UBX",""),
-            ('convex',"Convex Hull : UCX",""),
-            ('mesh',"Mesh : UMC",""),
+            ('box', "Box : BOX",""),
+            ('convex',"Convex Hull : CVX",""),
+            ('mesh',"Mesh : MSH",""),
         ]
 
     )
@@ -249,13 +249,13 @@ class SIMU_OT_generate_collider(Operator):
                 if obj.type == 'MESH' and 'copy' in obj.name:
                     # rename copy based on collider type
                     if context.scene.collider_vars.pick_collider_type == 'box':
-                        obj.name = 'UBX_' + obj.name[:-5] + '_boxCollider'
+                        obj.name = 'BOX_' + obj.name[:-5] + '_boxCollider'
                         obj.data.name = obj.name[:-5] + '_boxCollider'
                     if context.scene.collider_vars.pick_collider_type == 'convex':
-                        obj.name = 'UCX_' + obj.name[:-5] + '_convexCollider'
+                        obj.name = 'CVX_' + obj.name[:-5] + '_convexCollider'
                         obj.data.name = obj.name[:-5] + '_convextCollider'                
                     if context.scene.collider_vars.pick_collider_type == 'mesh':
-                        obj.name = 'UMC_' + obj.name[:-5] + '_meshCollider'
+                        obj.name = 'MSH_' + obj.name[:-5] + '_meshCollider'
                         obj.data.name = obj.name[:-5] + '_meshCollider'
                     # apply modifiers and return to being a normal mesh object
                     bpy.ops.object.convert(target='MESH')

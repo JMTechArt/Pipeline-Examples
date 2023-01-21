@@ -1,18 +1,18 @@
 # Simu_Collider Help and Information
 ## Quick Links
-- [Getting started](https://github.com/simutronics/Galahad/blob/master/3DArtTools/Blender/scripts/addons/Simu_Collider/READ_ME.md#getting-started)
+- [Getting started](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender%20Addons/addons/Simu_Collider/READ_ME.md#getting-started)
 
-    - [Add-on Installation Procedure](https://github.com/simutronics/Galahad/blob/master/3DArtTools/Blender/scripts/addons/Simu_Collider/READ_ME.md#add-on-installation-procedure)
+    - [Add-on Installation Procedure](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender%20Addons/addons/Simu_Collider/READ_ME.md#add-on-installation-procedure)
 
-    - [Panel Location, Versioning, and Help](https://github.com/simutronics/Galahad/blob/master/3DArtTools/Blender/scripts/addons/Simu_Collider/READ_ME.md#panel-location-versioning-and-help)
+    - [Panel Location, Versioning, and Help](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender%20Addons/addons/Simu_Collider/READ_ME.md#panel-location-versioning-and-help)
 
-- [Collider Workflow](https://github.com/simutronics/Galahad/blob/master/3DArtTools/Blender/scripts/addons/Simu_Collider/READ_ME.md#collider-workflow)
+- [Collider Workflow](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender%20Addons/addons/Simu_Collider/READ_ME.md#collider-workflow)
 
-    - [Collider Setup](https://github.com/simutronics/Galahad/blob/master/3DArtTools/Blender/scripts/addons/Simu_Collider/READ_ME.md#collider-setup)
+    - [Collider Setup](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender%20Addons/addons/Simu_Collider/READ_ME.md#collider-setup)
 
-    - [Collider Tools](https://github.com/simutronics/Galahad/blob/master/3DArtTools/Blender/scripts/addons/Simu_Collider/READ_ME.md#collider-tools)
+    - [Collider Tools](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender%20Addons/addons/Simu_Collider/READ_ME.md#collider-tools)
 
-- [Unity Script](https://github.com/simutronics/Galahad/blob/master/3DArtTools/Blender/scripts/addons/Simu_Collider/READ_ME.md#unity-script)
+- [Unity Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender%20Addons/addons/Simu_Collider/READ_ME.md#unity-script)
 
 
     # Getting Started
