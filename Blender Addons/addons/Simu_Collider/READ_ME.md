@@ -1,5 +1,5 @@
 # Example Overview
-Below you will find the actual documentation used in production. This example was a test of Blender's new Geometry Node procedural workflow. It was useful enough for production needs, but in hindsight I believe it had too many steps to setup a work session. If I had to do it over again I would use Blender's Bmesh Python module to generate colliders programatically. You will have to link the asset library to your own personal drive location to use. The addon can be intalled manually or linked in the same fashion as described.
+Below you will find the actual documentation used in production. This example was a test of Blender's new Geometry Node procedural workflow. It was useful enough for production needs, but in hindsight I believe it had too many steps to setup a work session. If I had to do it over again I would use Blender's Bmesh Python module to generate colliders programatically. The addon can be intalled manually or linked in the same fashion as described, but must link to an actual folder on your PC. The asset library steps are not needed as the node group is already present in the provided example Blender file.
 
 # Simu_Collider Help and Information
 ## Quick Links
