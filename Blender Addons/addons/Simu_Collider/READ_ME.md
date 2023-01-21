@@ -1,3 +1,6 @@
+# Example Overview
+Below you will find the actual documentation used in production. This example was a test of Blender's new Geometry Node procedural workflow. It was useful enough for production needs, but in hindsight I believe it had too many steps to setup a work session. If I had to do it over again I would use Blender's Bmesh Python module to generate colliders programatically. You will have to link the asset library to your own personal drive location to use. The addon can be intalled manually or linked in the same fashion as described.
+
 # Simu_Collider Help and Information
 ## Quick Links
 - [Getting started](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender%20Addons/addons/Simu_Collider/READ_ME.md#getting-started)
