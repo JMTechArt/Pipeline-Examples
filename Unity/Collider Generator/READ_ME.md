@@ -1,4 +1,5 @@
 # Collision Generator Unity Editor Script
+![unityScript](./IMGs/ColliderGIFUnity.gif)
 ## Quick Links
 - [Blender Simu_Collider Addon Link](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Blender%20Addons/addons/Simu_Collider)
 
