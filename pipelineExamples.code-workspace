@@ -1,10 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "scripts/addons"
-		},
-		{
-			"path": "."
-		}
-	]
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
