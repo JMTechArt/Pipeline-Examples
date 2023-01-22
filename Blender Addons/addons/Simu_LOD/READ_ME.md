@@ -1,3 +1,16 @@
+# Example Overview
+Below you will find the actual documentation used in production. This was one of the more complex tools I created for production. It will create multiple LOD meshes with a few clicks. It is able to read through complex mesh heirarchies and also append the new LOD meshes using 3 different methods while respecting the original heirarchy. There are also multiple methods of mesh decimation.
+
+The mechs for this project had three UV channels that were used for different skins and decals. This addon allows you to mask those vertices so they are not affected, which was useful for LOD1 since you could see still see these effects at the distance of the LOD switchover in game. 
+
+I was able to figure out the screen space calculations in order to get the Blender viewport to match when Unity would switch LODs based on camera distance. This allows the user to never have to leave Blender as they get a 1 to 1 representation of what they would see in engine. The percentage settings could be copied to Unity's LOD components and everything would match or vice versa. A modal operator was built to be able to view the LOD switch over in real time. 
+
+LOD3 was a special case where I procedurally generate new meshes instead of copying and decimating preexisting meshes to get the lowest triangle count possible. It uses shrinkwrap modifiers to better fit the form of LOD0 after mesh generation. It appears black in the GIF because there are no UV maps. In most cases we just did a quick unwrap and shrank the UV islands down inside the main texture afterwards.
+
+There is a built in "remove all LOD data" function for trial and error purposes. This scrubs anything that was created and sets you back to square one in one click.
+
+![LOD GIF](./IMGs/LOD.gif)
+
 # Simu_LOD Help and Information
 ## Quick Links
 - [Getting started](https://github.com/simutronics/Galahad/blob/master/3DArtTools/Blender/scripts/addons/Simu_LOD/READ_ME.md#getting-started)
