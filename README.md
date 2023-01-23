@@ -40,7 +40,7 @@ Examples of various pipeline tools for various DCCs and game engines written in 
     - [C# Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Gameplay%20Example/InterpolatedBulwark.cs) 
 ***
 ## Unreal/C++/Blueprint Examples
--   Actor Renamer Tool
+-   Actor Renamer Tool/Blueprint
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unreal/Blueprints/Actor%20Renamer%20Blueprint/READ_ME.md)
  
 - Scatter Actor Example/C++
