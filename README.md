@@ -15,7 +15,11 @@ Examples of various pipeline tools for various DCCs and game engines written in 
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LOD/READ_ME.md)
     - [Main Python Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LOD/simu_lod.py)
 
--   Rig Animation Staging
+-   Rig Staging for Cinematics
+    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LanceStage/READ_ME.md)
+    - [Main Python Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LanceStage/simu_lancestage.py)
+
+-   Multiple Render Layer, Light Linking, Compositing Thingamabob WIP
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LightComp/READ_ME.md)
     - [Main Python Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LightComp/simu_lightcomp.py) 
 ***
