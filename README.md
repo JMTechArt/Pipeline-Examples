@@ -1,5 +1,5 @@
 # Pipeline-Examples
-Examples of various pipeline tools for various DCCs and game engines written in Python, C++, C#, HLSL, and GLSL for code. There are also examples of Unreal Blueprints and Houdini procedural generation.
+Examples of various pipeline tools for various DCCs and game engines written in Python, C++, C#, HLSL, and GLSL for code. There are also examples of Unreal Blueprints and Houdini procedural generation. Example Overviews have brief descriptions of each script and animated GIFs where possible and some include actual documentation used in production.
 ***
 ## Blender/Python Examples
 
