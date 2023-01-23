@@ -51,20 +51,19 @@ private:
 	 void DisplayGridPoints();
 	
 	//UProperties
-	UPROPERTY(EditAnywhere, Category = "Main Settings")
-	int32 RandomSeed = 0;
+	UPROPERTY(EditAnywhere, Category = "Instance Properties")
+	AActor* ScatterSurface;
 
-	UPROPERTY(EditAnywhere, Category = "Main Settings")
+	UPROPERTY(EditAnywhere, Category = "Instance Properties")
 	float InstanceSpacing = 500.f;
 
-	UPROPERTY(EditAnywhere, Category = "Main Settings", meta = (ClampMin = "0", UIMin = "0", ClampMax = "1", UIMax = "1"))
-	float OffsetPercentage = 0.5f;	
+	UPROPERTY(EditAnywhere, Category = "Instance Properties", meta = (ClampMin = "0", UIMin = "0", ClampMax = "1", UIMax = "1"))
+	float OffsetPercentage = 0.f;
 
-	UPROPERTY(EditAnywhere, Category = "Instances")
-	UStaticMesh* StaticMesh;
+	UPROPERTY(EditAnywhere, Category = "Instance Properties")
+	int32 RandomSeed = 0;
 
-	UPROPERTY(EditAnywhere, Category = "Instances")
-	AActor* ScatterSurface;
+	
 
 	
 	

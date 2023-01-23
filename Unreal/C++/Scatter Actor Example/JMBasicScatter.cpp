@@ -87,7 +87,7 @@ TArray<FGridPoint> AJMBasicScatter::CreateGridPoints()
 
 				FGridPoint NewPoint;
 				NewPoint.Location = PointLocation;
-				NewPoint.PointColor = FColor::Red;
+				NewPoint.PointColor = FColor::Black;
 
 				Points.Add(NewPoint);
 			}
@@ -118,7 +118,7 @@ void AJMBasicScatter::DisplayGridPoints()
 			Location.X += RandomPosition.X;
 			Location.Y += RandomPosition.Y;
 
-			DrawDebugPoint(GetWorld(), Location, 10.f, Point.PointColor, true);
+			DrawDebugPoint(GetWorld(), Location, 20.f, Point.PointColor, true);
 		}
 	}
 }
