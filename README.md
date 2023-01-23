@@ -41,5 +41,10 @@ Examples of various pipeline tools for various DCCs and game engines written in 
 ***
 ## Unreal/C++/Blueprint Examples
 -   Actor Renamer Tool
-    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unreal/Blueprints/READ_ME.md)
+    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unreal/Blueprints/Actor%20Renamer%20Blueprint/READ_ME.md)
  
+- Scatter Actor Example/C++
+    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unreal/C%2B%2B/Scatter%20Actor%20Example/READ_ME.md)
+    - [C++ Header](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unreal/C%2B%2B/Scatter%20Actor%20Example/JMBasicScatter.h)
+    - [C++ CPP](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unreal/C%2B%2B/Scatter%20Actor%20Example/JMBasicScatter.cpp)
+
