@@ -1,5 +1,9 @@
 # Example Overview
-We had a third party marketing studio work with us for our PAX booth. My job was to develop a rig system to allow for mech animations in blender using all the weapons and textures found in the game. I had create Blender versions off all the game shaders so they could add grunge, edgewear, and battle damage effects. This addon lets you swap out weapons and skins while retaining full rig control over everything. So a weapon swap would not ruin the rig if a gun barrel needed to spin using a bone controller for example. The third party didn't have access to out git repository so I had to write a PDF manual for this toolset. Below is just notes I made for internal use if needed. Not all textures were uploaded for this example, but the basic functionality can be tested.
+[Code Link](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Blender/addons/Simu_LanceStage)
+
+We had a third party marketing studio work with us for our PAX booth. My job was to develop a rig system to allow for mech animations in blender using all the weapons and textures found in the game. I had create Blender versions off all the game shaders so they could add grunge, edgewear, and battle damage effects. This addon lets you swap out weapons and skins while retaining full rig control over everything. So a weapon swap would not ruin the rig if a gun barrel needed to spin using a bone controller for example. 
+
+The third party didn't have access to out git repository so I had to write a PDF manual for this toolset. Below is just notes I made for internal use if needed. Not all textures were uploaded for this example, but the basic functionality can be tested.
 
 ![Stage Image](./IMGs/Stage.gif) 
 

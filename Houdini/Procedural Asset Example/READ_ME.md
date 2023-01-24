@@ -1,4 +1,6 @@
 # Example Overview
+[File Link](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Houdini/Procedural%20Asset%20Example)
+
 This is an example of a Houdini Digital Asset(HDA). This is what you would use in a game engine if you're using a Houdini Engine plugin. Great for when you need a lot of variation using the same basic template.
 
 ![bridge](IMGs/Houdini%20Procedural%20Example.gif)

@@ -1,4 +1,6 @@
 # Example Overview
+[Code Link](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Blender/addons/Simu_LOD)
+
 Below you will find the actual documentation used in production. This was one of the more complex tools I created for production. It will create multiple LOD meshes with a few clicks. It is able to read through complex mesh heirarchies and also append the new LOD meshes using 3 different methods while respecting the original heirarchy. 
 
 The mechs for this project had three UV channels that were used for different skins and decals. This addon allows you to mask those vertices so they are not affected, which was useful for LOD1 since you could see still see these effects at the distance of the LOD switchover in game. 
@@ -10,7 +12,7 @@ There are also multiple methods of LOD mesh generation. The first method is a de
 There is a built in "remove all LOD data" function for trial and error purposes. This scrubs anything that was created and sets you back to square one in one click.
 
 ![LOD GIF](./IMGs/LOD.gif)
-
+# START OF PRODUCTION DOCS(links broken)
 # Simu_LOD Help and Information
 ## Quick Links
 - [Getting started](https://github.com/simutronics/Galahad/blob/master/3DArtTools/Blender/scripts/addons/Simu_LOD/READ_ME.md#getting-started)
