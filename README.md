@@ -1,7 +1,7 @@
 # Pipeline-Examples
 Examples of various pipeline tools for various DCCs and game engines written in Python, C++, C#, HLSL, and GLSL for code. There are also examples of Unreal Blueprints and Houdini procedural generation. Example Overviews have brief descriptions of each script and animated GIFs where possible. Some overviews include actual documentation used in production.
 
-| Blender | Houdini | Unity | Unreal | PySide/PyQt |
+| Blender | Houdini | Unity | [Unreal](https://github.com/JMTechArt/Pipeline-Examples/blob/main/README.md#Unreal C++ and Blueprint Examples) | PySide/PyQt |
 | --- | ----------- | ------ | ----- | ------------ |
 | [Collider Generator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/README.md#Blender/Python-Examples) | VFX Exporting | Collider Generator | Actor Renamer Tool | UI Example |
 | Facial Animation | HDA/Procedural | Gameplay Programming | Scatter Actor Class |
@@ -50,7 +50,7 @@ Examples of various pipeline tools for various DCCs and game engines written in 
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Gameplay%20Example/READ_ME.md)
     - [C# Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Gameplay%20Example/InterpolatedBulwark.cs) 
 ***
-# Unreal/C++/Blueprint Examples
+# Unreal C++ and Blueprint Examples
 -   Actor Renamer Tool/Blueprint
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unreal/Blueprints/Actor%20Renamer%20Blueprint/READ_ME.md)
  
