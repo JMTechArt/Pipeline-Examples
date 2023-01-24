@@ -48,3 +48,7 @@ Examples of various pipeline tools for various DCCs and game engines written in 
     - [C++ Header](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unreal/C%2B%2B/Scatter%20Actor%20Example/JMBasicScatter.h)
     - [C++ CPP](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unreal/C%2B%2B/Scatter%20Actor%20Example/JMBasicScatter.cpp)
 
+## Houdini Examples
+- VFX Example
+    - 
+
