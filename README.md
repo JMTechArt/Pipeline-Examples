@@ -12,7 +12,7 @@ Examples of various pipeline tools for various DCCs and game engines written in 
 ***  
 
 
-# Blender/Python Examples
+## Blender/Python Examples
 
 -   Collider Generator
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_Collider/READ_ME.md)
@@ -34,14 +34,14 @@ Examples of various pipeline tools for various DCCs and game engines written in 
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LightComp/READ_ME.md)
     - [Main Python Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LightComp/simu_lightcomp.py) 
 ***
-# Houdini Examples
+## Houdini Examples
 - VFX Export Example
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Houdini/Destruction%20Example/READ_ME.md)
 - HDA/Procedural Example
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Houdini/Procedural%20Asset%20Example/READ_ME.md)
 
 ***
-# Unity C# Examples
+## Unity C# Examples
 -   Collider Generator
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Collider%20Generator/READ_ME.md)
     - [C# Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Collider%20Generator/CollisionGenerator.cs) 
