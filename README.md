@@ -8,6 +8,7 @@ Examples of various pipeline tools for various DCCs and game engines written in 
 | [LOD Generation](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LOD/READ_ME.md) |
 | [Rig Staging](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LanceStage/READ_ME.md) |
 | [Compositing](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/addons/Simu_LightComp/READ_ME.md) |
+| [All Example Files](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Blender/Blender%20Example%20Files) |
 
 ***  
 
