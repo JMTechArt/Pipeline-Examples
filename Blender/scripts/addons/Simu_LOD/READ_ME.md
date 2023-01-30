@@ -1,5 +1,5 @@
 # Example Overview
-[Code Link](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Blender/addons/Simu_LOD)
+[Code Link](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Blender/scripts/addons/Simu_LOD)
 
 Below you will find the actual documentation used in production. This was one of the more complex tools I created for production. It will create multiple LOD meshes with a few clicks. It is able to read through complex mesh heirarchies and also append the new LOD meshes using 3 different methods while respecting the original heirarchy. 
 
