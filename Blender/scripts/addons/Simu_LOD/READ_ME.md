@@ -1,7 +1,7 @@
 # Example Overview
 [Code Link](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Blender/scripts/addons/Simu_LOD)
 
-Below you will find the actual documentation used in production. This was one of the more complex tools I created for production. It will create multiple LOD meshes with a few clicks. It is able to read through complex mesh heirarchies and also append the new LOD meshes using 3 different methods while respecting the original heirarchy. 
+Below you will find the actual documentation used in production. This tool will create multiple LOD meshes with a few clicks. It is able to parse complex mesh heirarchies and also append the new LOD meshes using 3 different methods while respecting the original heirarchy. 
 
 The mechs for this project had three UV channels that were used for different skins and decals. This addon allows you to mask those vertices so they are not affected, which was useful for LOD1 since you could see still see these effects at the distance of the LOD switchover in game. 
 

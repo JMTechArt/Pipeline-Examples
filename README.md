@@ -59,11 +59,11 @@ Examples of various pipeline tools for various DCCs and game engines written in 
 -   Coming Soon
 
 ***
-## PySide 6 and PyQt 6 UI Example
+## Machine Learning Example
 
 -   Simple UI Example
-    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/PyQT/READ_ME.md)
-    - [Python Code(main script)](https://github.com/JMTechArt/Pipeline-Examples/blob/main/PyQT/main.py)
-    - [Python Code(UI script)](https://github.com/JMTechArt/Pipeline-Examples/blob/main/PyQT/ui_main.py)
+    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/README.md)
+    - [Omniverse Replicator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/omniverse_replicator.py)
+    - [Omniverse Output Processing](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/omni_output_processing.py)
 
 
