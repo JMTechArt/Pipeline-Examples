@@ -21,4 +21,4 @@ A lot of foliage was rigged and then given special contraints in order to mimic 
 ![Tab Image](./IMG/Plant_Rigging.gif) 
 
 ### Click to watch better quality video of the above examples:
-[![Houdini Real-time Examples](https://vumbnail.com/940423123:f67484b822.jpg)](https://vimeo.com/940423123/f67484b822?share=copy "Omniverse Replicator Output Example - Click to Watch!")
+[![Houdini Real-time Simulation Examples](https://vumbnail.com/940423123:f67484b822.jpg)](https://vimeo.com/940423123/f67484b822?share=copy "Houdini Real-time Simulation Examples - Click to Watch!")
