@@ -1,14 +1,13 @@
 # Pipeline-Examples
 Examples of various pipeline tools for various DCCs and game engines written in Python, C++, C#, and Unity's ShaderLab HLSL for code. There are also examples of Unreal Blueprints and Houdini procedural generation. Example Overviews have brief descriptions of each script and animated GIFs where possible. Some overviews include actual documentation used in production.
 
-| Blender | Houdini | Unity | Unreal | PySide/PyQt |
+| Blender | Houdini | Unity | Unreal | Machine Learning |
 | --- | ----------- | ------ | ----- | ------------ |
-| [Collider Generator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_Collider/READ_ME.md) | Coming Soon | [Collider Generator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Collider%20Generator/READ_ME.md) | Coming Soon | [UI Example](https://github.com/JMTechArt/Pipeline-Examples/blob/main/PyQT/READ_ME.md) |
+| [Collider Generator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_Collider/READ_ME.md) | Coming Soon | [Collider Generator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Collider%20Generator/READ_ME.md) | Coming Soon | [Omniverse Replicator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/README.md) |
 | [Facial Animation](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_FaceAnim/READ_ME.md) | | [Gameplay Programming](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Gameplay%20Example/READ_ME.md) |  |
 | [LOD Generation](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LOD/READ_ME.md) ||[Shaders](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Shaders/READ_ME.md)|
-| [Rig Staging](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LanceStage/READ_ME.md) |
-| [Compositing](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LightComp/READ_ME.md) |
-| [All Example Files](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Blender/Blender%20Example%20Files) |
+| [Rig Staging](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LanceStage/READ_ME.md)  
+
 
 ***  
 
@@ -31,9 +30,7 @@ Examples of various pipeline tools for various DCCs and game engines written in 
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LanceStage/READ_ME.md)
     - [Main Python Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LanceStage/simu_lancestage.py)
 
--   Multiple Render Layer, Light Linking, Compositing Thingamabob WIP
-    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LightComp/READ_ME.md)
-    - [Main Python Script](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LightComp/simu_lightcomp.py) 
+
 ***
 ## Houdini Examples
 - Coming Soon
