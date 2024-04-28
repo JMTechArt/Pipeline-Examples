@@ -60,7 +60,7 @@ Examples of various pipeline tools for various DCCs and game engines written in 
 
 -   Simple UI Example
     - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/README.md)
-    - [Omniverse Replicator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/omniverse_replicator.py)
-    - [Omniverse Output Processing](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/ommiverse_replicator.py)
+    - [Omniverse Replicator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/ommiverse_replicator.py)
+    - [Omniverse Output Processing](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Machine_Learning/omni_output_processing.py)
 
 
