@@ -4,7 +4,7 @@ Examples of various pipeline tools for various DCCs and game engines written in 
 | Blender | Houdini | Unity | Unreal | Machine Learning |
 | --- | ----------- | ------ | ----- | ------------ |
 | [Collider Generator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_Collider/READ_ME.md) | [Real-time Simulation Examples](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Houdini/README.md)| [Collider Generator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Collider%20Generator/READ_ME.md) | Coming Soon | [Omniverse Replicator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/README.md) |
-| [Facial Animation](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_FaceAnim/READ_ME.md) | | [Gameplay Programming](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Gameplay%20Example/READ_ME.md) |  |
+| [Facial Animation](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_FaceAnim/READ_ME.md) | | [Gameplay Programming](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Gameplay%20Example/READ_ME.md) || [Houdin ML Training](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/Custom_Regression_Model/README.md)| |
 | [LOD Generation](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LOD/READ_ME.md) ||[Shaders](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Unity/Shaders/READ_ME.md)|
 | [Rig Staging](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Blender/scripts/addons/Simu_LanceStage/READ_ME.md)  
 
@@ -58,9 +58,10 @@ Examples of various pipeline tools for various DCCs and game engines written in 
 ***
 ## Machine Learning Example
 
--   Simple UI Example
-    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/README.md)
+-   Omniverse Examples
+    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/Omniverse_Examples/README.md)
     - [Omniverse Replicator](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/ommiverse_replicator.py)
     - [Omniverse Output Processing](https://github.com/JMTechArt/Pipeline-Examples/tree/main/Machine_Learning/omni_output_processing.py)
 
-
+- Houdini Cloth Regression Model 
+    - [Example Overview](https://github.com/JMTechArt/Pipeline-Examples/blob/main/Machine_Learning/Custom_Regression_Model/README.md)
